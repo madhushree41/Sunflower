@@ -1,0 +1,33 @@
+{
+  "sample_id": "9da488fc-4cbe-466f-82c4-945aa846e969",
+  "label": "persist",
+  "target_proc": {
+    "name": "python",
+    "pid": 5040,
+    "exe": "",
+    "ppid": null,
+    "signed": false
+  },
+  "timeline": [
+    {
+      "t": 0.0920257568359375,
+      "type": "reg_set",
+      "detail": " HKCU\\Software\\TestApp\\Run=C:\\sandbox\\persist\\agent.exe"
+    }
+  ],
+  "rollups": {
+    "file_create": 0,
+    "file_delete": 0,
+    "file_modify": 0,
+    "folder_create": 0,
+    "folder_delete": 0,
+    "reg_set": 2,
+    "reg_delete": 0,
+    "dns_query": 0,
+    "net_connect": 0,
+    "proc_spawn": 0,
+    "cpu_max": 0.0,
+    "duration_s": 0.31,
+    "unique_exts": 0
+  }
+}

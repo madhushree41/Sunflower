@@ -1,0 +1,193 @@
+{
+  "sample_id": "d5776dd1-1645-46db-8672-2aac523e546c",
+  "label": "wiper",
+  "target_proc": {
+    "name": "python",
+    "pid": 1280,
+    "exe": "",
+    "ppid": null,
+    "signed": false
+  },
+  "timeline": [
+    {
+      "t": 0.113,
+      "type": "folder_create",
+      "path": "C:\\sandbox\\wiper"
+    },
+    {
+      "t": 0.114,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_0.log"
+    },
+    {
+      "t": 0.115,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_0.log"
+    },
+    {
+      "t": 0.115,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_0.log"
+    },
+    {
+      "t": 0.116,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_1.log"
+    },
+    {
+      "t": 0.116,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_1.log"
+    },
+    {
+      "t": 0.116,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_2.log"
+    },
+    {
+      "t": 0.117,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_2.log"
+    },
+    {
+      "t": 0.117,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_3.log"
+    },
+    {
+      "t": 0.118,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_3.log"
+    },
+    {
+      "t": 0.118,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_4.log"
+    },
+    {
+      "t": 0.119,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_4.log"
+    },
+    {
+      "t": 0.119,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_5.log"
+    },
+    {
+      "t": 0.119,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_5.log"
+    },
+    {
+      "t": 0.12,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_6.log"
+    },
+    {
+      "t": 0.12,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_6.log"
+    },
+    {
+      "t": 0.121,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_7.log"
+    },
+    {
+      "t": 0.121,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_7.log"
+    },
+    {
+      "t": 0.122,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_8.log"
+    },
+    {
+      "t": 0.122,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_8.log"
+    },
+    {
+      "t": 0.122,
+      "type": "file_create",
+      "path": "C:\\sandbox\\wiper\\a_9.log"
+    },
+    {
+      "t": 0.122,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\wiper\\a_9.log"
+    },
+    {
+      "t": 1.64,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_0.log"
+    },
+    {
+      "t": 1.64,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_1.log"
+    },
+    {
+      "t": 1.64,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_2.log"
+    },
+    {
+      "t": 1.641,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_3.log"
+    },
+    {
+      "t": 1.641,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_4.log"
+    },
+    {
+      "t": 1.642,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_5.log"
+    },
+    {
+      "t": 1.642,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_6.log"
+    },
+    {
+      "t": 1.642,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_7.log"
+    },
+    {
+      "t": 1.642,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_8.log"
+    },
+    {
+      "t": 1.642,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper\\a_9.log"
+    },
+    {
+      "t": 1.643,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\wiper"
+    }
+  ],
+  "rollups": {
+    "file_create": 11,
+    "file_delete": 11,
+    "file_modify": 10,
+    "folder_create": 1,
+    "folder_delete": 0,
+    "reg_set": 0,
+    "reg_delete": 0,
+    "dns_query": 0,
+    "net_connect": 0,
+    "proc_spawn": 0,
+    "cpu_max": 38.8,
+    "duration_s": 1.87,
+    "unique_exts": 1
+  }
+}

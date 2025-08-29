@@ -1,0 +1,473 @@
+{
+  "sample_id": "d135cb5a-b1c7-4706-bc18-ccf9e2f28279",
+  "label": "ransom",
+  "target_proc": {
+    "name": "python",
+    "pid": 8444,
+    "exe": "",
+    "ppid": null,
+    "signed": false
+  },
+  "timeline": [
+    {
+      "t": 0.084,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_0.txt"
+    },
+    {
+      "t": 0.084,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_0.txt"
+    },
+    {
+      "t": 0.086,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_1.txt"
+    },
+    {
+      "t": 0.086,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_1.txt"
+    },
+    {
+      "t": 0.087,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_2.txt"
+    },
+    {
+      "t": 0.087,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_2.txt"
+    },
+    {
+      "t": 0.088,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_3.txt"
+    },
+    {
+      "t": 0.088,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_3.txt"
+    },
+    {
+      "t": 0.088,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_4.txt"
+    },
+    {
+      "t": 0.09,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_4.txt"
+    },
+    {
+      "t": 0.09,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_5.txt"
+    },
+    {
+      "t": 0.09,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_5.txt"
+    },
+    {
+      "t": 0.091,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_6.txt"
+    },
+    {
+      "t": 0.091,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_6.txt"
+    },
+    {
+      "t": 0.091,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_7.txt"
+    },
+    {
+      "t": 0.092,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_7.txt"
+    },
+    {
+      "t": 0.093,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_8.txt"
+    },
+    {
+      "t": 0.093,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_8.txt"
+    },
+    {
+      "t": 0.093,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_9.txt"
+    },
+    {
+      "t": 0.094,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_9.txt"
+    },
+    {
+      "t": 0.094,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_10.txt"
+    },
+    {
+      "t": 0.094,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_10.txt"
+    },
+    {
+      "t": 0.095,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_11.txt"
+    },
+    {
+      "t": 0.095,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_11.txt"
+    },
+    {
+      "t": 0.096,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_12.txt"
+    },
+    {
+      "t": 0.096,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_12.txt"
+    },
+    {
+      "t": 0.096,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_13.txt"
+    },
+    {
+      "t": 0.097,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_13.txt"
+    },
+    {
+      "t": 0.097,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_14.txt"
+    },
+    {
+      "t": 0.098,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_14.txt"
+    },
+    {
+      "t": 0.098,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_15.txt"
+    },
+    {
+      "t": 0.098,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_15.txt"
+    },
+    {
+      "t": 0.099,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_16.txt"
+    },
+    {
+      "t": 0.099,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_16.txt"
+    },
+    {
+      "t": 0.099,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_17.txt"
+    },
+    {
+      "t": 0.1,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_17.txt"
+    },
+    {
+      "t": 0.1,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_18.txt"
+    },
+    {
+      "t": 0.1,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_18.txt"
+    },
+    {
+      "t": 0.101,
+      "type": "file_create",
+      "path": "C:\\sandbox\\ransom\\doc_19.txt"
+    },
+    {
+      "t": 0.101,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_19.txt"
+    },
+    {
+      "t": 0.856,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_0.txt.enc"
+    },
+    {
+      "t": 0.856,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_0.txt"
+    },
+    {
+      "t": 0.933,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_1.txt.enc"
+    },
+    {
+      "t": 0.933,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_1.txt.enc"
+    },
+    {
+      "t": 0.933,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_1.txt"
+    },
+    {
+      "t": 1.012,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_10.txt.enc"
+    },
+    {
+      "t": 1.012,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_10.txt"
+    },
+    {
+      "t": 1.1,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_11.txt.enc"
+    },
+    {
+      "t": 1.101,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_11.txt"
+    },
+    {
+      "t": 1.178,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_12.txt.enc"
+    },
+    {
+      "t": 1.178,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_12.txt.enc"
+    },
+    {
+      "t": 1.178,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_12.txt"
+    },
+    {
+      "t": 1.276,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_13.txt.enc"
+    },
+    {
+      "t": 1.276,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_13.txt"
+    },
+    {
+      "t": 1.35,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_14.txt.enc"
+    },
+    {
+      "t": 1.351,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_14.txt.enc"
+    },
+    {
+      "t": 1.351,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_14.txt"
+    },
+    {
+      "t": 1.43,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_15.txt.enc"
+    },
+    {
+      "t": 1.43,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_15.txt"
+    },
+    {
+      "t": 1.508,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_16.txt.enc"
+    },
+    {
+      "t": 1.509,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_16.txt"
+    },
+    {
+      "t": 1.588,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_17.txt.enc"
+    },
+    {
+      "t": 1.588,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_17.txt.enc"
+    },
+    {
+      "t": 1.588,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_17.txt"
+    },
+    {
+      "t": 1.664,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_18.txt.enc"
+    },
+    {
+      "t": 1.664,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_18.txt.enc"
+    },
+    {
+      "t": 1.664,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_18.txt"
+    },
+    {
+      "t": 1.744,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_19.txt.enc"
+    },
+    {
+      "t": 1.745,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_19.txt.enc"
+    },
+    {
+      "t": 1.745,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_19.txt"
+    },
+    {
+      "t": 1.826,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_2.txt.enc"
+    },
+    {
+      "t": 1.827,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_2.txt.enc"
+    },
+    {
+      "t": 1.827,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_2.txt"
+    },
+    {
+      "t": 1.938,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_3.txt.enc"
+    },
+    {
+      "t": 1.938,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_3.txt"
+    },
+    {
+      "t": 2.018,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_4.txt.enc"
+    },
+    {
+      "t": 2.018,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_4.txt"
+    },
+    {
+      "t": 2.098,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_5.txt.enc"
+    },
+    {
+      "t": 2.098,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_5.txt"
+    },
+    {
+      "t": 2.177,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_6.txt.enc"
+    },
+    {
+      "t": 2.177,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_6.txt.enc"
+    },
+    {
+      "t": 2.178,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_6.txt"
+    },
+    {
+      "t": 2.261,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_7.txt.enc"
+    },
+    {
+      "t": 2.262,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_7.txt"
+    },
+    {
+      "t": 2.34,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_8.txt.enc"
+    },
+    {
+      "t": 2.341,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_8.txt.enc"
+    },
+    {
+      "t": 2.341,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_8.txt"
+    },
+    {
+      "t": 2.433,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\ransom\\doc_9.txt.enc"
+    },
+    {
+      "t": 2.434,
+      "type": "file_delete",
+      "path": "C:\\sandbox\\ransom\\doc_9.txt"
+    }
+  ],
+  "rollups": {
+    "file_create": 20,
+    "file_delete": 20,
+    "file_modify": 49,
+    "folder_create": 0,
+    "folder_delete": 0,
+    "reg_set": 0,
+    "reg_delete": 0,
+    "dns_query": 0,
+    "net_connect": 0,
+    "proc_spawn": 0,
+    "cpu_max": 30.8,
+    "duration_s": 2.56,
+    "unique_exts": 2
+  }
+}

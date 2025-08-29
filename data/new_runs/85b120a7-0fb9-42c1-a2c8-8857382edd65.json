@@ -1,0 +1,53 @@
+{
+  "sample_id": "85b120a7-0fb9-42c1-a2c8-8857382edd65",
+  "label": "beacon",
+  "target_proc": {
+    "name": "python",
+    "pid": 9960,
+    "exe": "",
+    "ppid": null,
+    "signed": false
+  },
+  "timeline": [
+    {
+      "t": 1.903,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\beacon\\stage.bin"
+    },
+    {
+      "t": 1.9009132385253906,
+      "type": "dns_query",
+      "domain": "cdn-updates.example"
+    },
+    {
+      "t": 1.9009218215942383,
+      "type": "dns_query",
+      "domain": "telemetry.service"
+    },
+    {
+      "t": 1.9009246826171875,
+      "type": "dns_query",
+      "domain": "analytics.host"
+    },
+    {
+      "t": 1.904,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\beacon\\stage.bin"
+    }
+  ],
+  "rollups": {
+    "file_create": 0,
+    "file_delete": 0,
+    "file_modify": 2,
+    "folder_create": 0,
+    "folder_delete": 0,
+    "reg_set": 0,
+    "reg_delete": 0,
+    "dns_query": 6,
+    "net_connect": 0,
+    "proc_spawn": 0,
+    "cpu_max": 15.2,
+    "duration_s": 2.21,
+    "unique_exts": 1
+  }
+}

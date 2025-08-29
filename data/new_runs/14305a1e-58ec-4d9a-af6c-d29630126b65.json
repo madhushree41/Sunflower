@@ -1,0 +1,102 @@
+{
+  "sample_id": "14305a1e-58ec-4d9a-af6c-d29630126b65",
+  "target_proc": {
+    "name": "python",
+    "pid": 8772,
+    "exe": "",
+    "ppid": null,
+    "signed": false
+  },
+  "timeline": [
+    {
+      "t": 0.103,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_0.txt"
+    },
+    {
+      "t": 0.103,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_0.txt"
+    },
+    {
+      "t": 0.407,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_1.txt"
+    },
+    {
+      "t": 0.408,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_1.txt"
+    },
+    {
+      "t": 0.729,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_2.txt"
+    },
+    {
+      "t": 1.033,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_3.txt"
+    },
+    {
+      "t": 1.033,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_3.txt"
+    },
+    {
+      "t": 1.033,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_3.txt"
+    },
+    {
+      "t": 1.336,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_4.txt"
+    },
+    {
+      "t": 1.336,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_4.txt"
+    },
+    {
+      "t": 2.404,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_0.txt"
+    },
+    {
+      "t": 2.404,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_0.txt"
+    },
+    {
+      "t": 2.706,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_1.txt"
+    },
+    {
+      "t": 2.706,
+      "type": "file_modify",
+      "path": "C:\\sandbox\\benign_installer\\file_1.txt"
+    },
+    {
+      "t": 3.00461483001709,
+      "type": "reg_set",
+      "detail": " HKCU\\Software\\TestApp\\InstallPath=C:\\sandbox\\benign_installer"
+    }
+  ],
+  "rollups": {
+    "file_create": 0,
+    "file_delete": 0,
+    "file_modify": 14,
+    "folder_create": 0,
+    "folder_delete": 0,
+    "reg_set": 2,
+    "reg_delete": 0,
+    "dns_query": 0,
+    "net_connect": 0,
+    "proc_spawn": 0,
+    "cpu_max": 23.3,
+    "duration_s": 3.2,
+    "unique_exts": 1
+  }
+}
